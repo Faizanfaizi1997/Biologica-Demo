@@ -3,7 +3,8 @@
 
 html{
     scroll-behavior: smooth;
-    scroll-padding: 0px;
+  scroll-snap-align: start;
+  scroll-snap-stop: normal;
 }
 *{
     font-family: 'Inter', sans-serif;                                          
