@@ -2,7 +2,7 @@
 @import url('http://fonts.cdnfonts.com/css/inter');
 
 html{
-    scroll-behavior: smooth;
+    scroll-behavior: smooth !important;
 	scroll-padding: 160px;
 }
 *{
