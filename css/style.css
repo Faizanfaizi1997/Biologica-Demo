@@ -3,6 +3,7 @@
 
 html{
     scroll-behavior: smooth;
+    scroll-padding: 0px;
 }
 *{
     font-family: 'Inter', sans-serif;                                          
